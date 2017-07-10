@@ -1,0 +1,11 @@
+json2sql/__init__.py
+json2sql/convert_operator.py
+json2sql/dummy_queries.py
+json2sql/process_json.py
+json2sql/process_where.py
+json2sql/test.py
+json2sql.egg-info/PKG-INFO
+json2sql.egg-info/SOURCES.txt
+json2sql.egg-info/dependency_links.txt
+json2sql.egg-info/not-zip-safe
+json2sql.egg-info/top_level.txt

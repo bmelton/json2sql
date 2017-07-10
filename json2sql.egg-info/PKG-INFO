@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: json2sql
+Version: 0.1
+Summary: Convert formatted JSON into Raw SQL
+Home-page: UNKNOWN
+Author: Barry Melton
+Author-email: barry@icanbwell.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
